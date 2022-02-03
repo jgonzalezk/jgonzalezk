@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-jgonzalezk.vercel.app/api/spotify)](https://open.spotify.com/user/12128817739)
 <!--
 **jgonzalezk/jgonzalezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
